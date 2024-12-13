@@ -1,0 +1,14 @@
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DotnetLists\bin\Debug\net8.0\DotnetLists.exe
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DotnetLists\bin\Debug\net8.0\DotnetLists.deps.json
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DotnetLists\bin\Debug\net8.0\DotnetLists.runtimeconfig.json
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DotnetLists\bin\Debug\net8.0\DotnetLists.dll
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DotnetLists\bin\Debug\net8.0\DotnetLists.pdb
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DotnetLists\obj\Debug\net8.0\DotnetLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DotnetLists\obj\Debug\net8.0\DotnetLists.AssemblyInfoInputs.cache
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DotnetLists\obj\Debug\net8.0\DotnetLists.AssemblyInfo.cs
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DotnetLists\obj\Debug\net8.0\DotnetLists.csproj.CoreCompileInputs.cache
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DotnetLists\obj\Debug\net8.0\DotnetLists.dll
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DotnetLists\obj\Debug\net8.0\refint\DotnetLists.dll
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DotnetLists\obj\Debug\net8.0\DotnetLists.pdb
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DotnetLists\obj\Debug\net8.0\DotnetLists.genruntimeconfig.cache
+C:\Users\3346.ADM-UCDB\Desktop\Projetos\DotnetLists\obj\Debug\net8.0\ref\DotnetLists.dll
